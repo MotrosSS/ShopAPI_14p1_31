@@ -10,7 +10,8 @@
 # }
 
 
-GET http://localhost:5000/api/products
+//GET http://localhost:5000/api/products
+GET http://localhost:5000/api/userroles/getrolesbyuser/1000
 
 # PUT http://localhost:5000/api/products/1
 # Content-Type: application/json
